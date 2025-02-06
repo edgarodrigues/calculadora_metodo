@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alunos\\Documents\\Edgar\\Calculadora_metodo_\\Calculadora_metodo.csproj": {}
+    "C:\\Users\\Alunos\\Documents\\Edgar\\calculadora_metodo\\Calculadora_metodo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alunos\\Documents\\Edgar\\Calculadora_metodo_\\Calculadora_metodo.csproj": {
+    "C:\\Users\\Alunos\\Documents\\Edgar\\calculadora_metodo\\Calculadora_metodo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alunos\\Documents\\Edgar\\Calculadora_metodo_\\Calculadora_metodo.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\Documents\\Edgar\\calculadora_metodo\\Calculadora_metodo.csproj",
         "projectName": "Calculadora_metodo",
-        "projectPath": "C:\\Users\\Alunos\\Documents\\Edgar\\Calculadora_metodo_\\Calculadora_metodo.csproj",
+        "projectPath": "C:\\Users\\Alunos\\Documents\\Edgar\\calculadora_metodo\\Calculadora_metodo.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alunos\\Documents\\Edgar\\Calculadora_metodo_\\obj\\",
+        "outputPath": "C:\\Users\\Alunos\\Documents\\Edgar\\calculadora_metodo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
