@@ -12,3 +12,4 @@ C:\Users\Alunos\Documents\Edgar\Calculadora_metodo\obj\Debug\net8.0\refint\Calcu
 C:\Users\Alunos\Documents\Edgar\Calculadora_metodo\obj\Debug\net8.0\Calculadora_metodo.pdb
 C:\Users\Alunos\Documents\Edgar\Calculadora_metodo\obj\Debug\net8.0\Calculadora_metodo.genruntimeconfig.cache
 C:\Users\Alunos\Documents\Edgar\Calculadora_metodo\obj\Debug\net8.0\ref\Calculadora_metodo.dll
+C:\Users\Alunos\Documents\Edgar\calculadora_metodo\obj\Debug\net8.0\Calculadora_metodo.sourcelink.json
